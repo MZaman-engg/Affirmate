@@ -1,5 +1,5 @@
 # Affirmate
-Introducing Affirmate: Your iOS companion for daily motivation. Crafted with Swift and SwiftUI, this app, built on the MVVM architecture, empowers you with personalized reminders and a vibrant quote feed. Explore an array of inspirational quotes, handpick categories that resonate with you, and tailor your feed's aesthetics. Elevate your daily life with the power of positivity and motivation.
+**Introducing Affirmate**: Your iOS companion for daily motivation. Crafted with Swift and SwiftUI, this app, built on the MVVM architecture, empowers you with personalized reminders and a vibrant quote feed. Explore an array of inspirational quotes, handpick categories that resonate with you, and tailor your feed's aesthetics. Elevate your daily life with the power of positivity and motivation.
 
 
 https://github.com/MZaman-engg/Affirmate/assets/144347342/37b3a8f9-b882-4900-8de5-d681cb04e30e
