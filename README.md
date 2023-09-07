@@ -19,7 +19,7 @@ Swift 5.4+
 Clone or download the repository.
 Open the Affirmate.xcodeproj file in Xcode.
 Build and run the app on a simulator or a physical device.
-
+Add googleInfo.plist of your firebase project.
 ## Usage
 Discover daily motivation with our app! Start your day right by exploring our inspiring feed filled with quotes that uplift your spirit. Choose the categories that speak to you, customizing your daily inspiration. Personalize your experience further by selecting from a range of engaging themes. And don't forget to set daily reminders to stay inspired and on track. Let us be your source of daily motivation!
 
